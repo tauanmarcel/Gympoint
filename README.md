@@ -16,9 +16,6 @@ Desenvolvi a aplicação usando as configurações abaixo:
 
 # GYMPOINT WEB
 
-Desenvolvi a aplicação usando as configurações abaixo:
-
-    . API: gympoint_api
     . Dispositivo de teste: Google Chrome
 
 
@@ -41,7 +38,6 @@ Para não fugir muito do layout, coloquei apenas um botão de sair, mas após a 
 
 Desenvolvi o aplicativo usando as configurações abaixo:
 
-    . API: gympoint_api
     . Plataforma: Android
     . Sistema Operacional: Windows 10 Home Single Language
     . Dispositivos de teste: 
