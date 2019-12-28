@@ -1,0 +1,4 @@
+#Sat Dec 28 13:38:29 BRT 2019
+base.0=C\:\\www\\bootcamp\\gympoint_mobile\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
